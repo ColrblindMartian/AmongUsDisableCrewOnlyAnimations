@@ -22,7 +22,7 @@ That's why I tried to mod the game and disable those animations for you.
 Tested with Version v2020.5.9s
 
 All you have to do is download the modded asset file and replace it with the file at your game location<b>(create a backup of the file first)</b>.<br>
-File: sharedassets0.assets
+File: sharedassets0.assets (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/raw/master/sharedassets0.assets)
 Replace with file in: C:/Program Files/Steam/steamapps/common/Among Us/Among Us_Data/
 <br><br>
 To undo these changes all you have to do is replace the sharedassets0.assets file with the backup file you created earlier and restart the game.
