@@ -7,7 +7,7 @@ For the Game: Among Us. Disables the animations that can only be done by a crewm
 <b>I am not the creator of this file, I only modified it to disable a few animations stated further below. All credit for this file and the awesome game goes to the publisher and developer of this game: Innersloth http://innersloth.com</b><br>
 <a href="https://store.steampowered.com/app/945360/Among_Us">Link to Steam Page of the game</a>/<br><br>
 
-<b>These changes will only affect your game! If you want to have a fair match with this mod then you have to make sure everybody in the game uses this modification.</b>
+<b>These changes will only affect your game! If you want to have a fair match with this mod then you have to make sure everybody in the game uses this modification.</b><br>
 Shouldn't be that hard if you play with the same guys or with a group of friends.
 
 <h1>Introduction</h1>
@@ -32,9 +32,14 @@ To undo these changes all you have to do is replace the sharedassets0.assets fil
 Following Tasks will be affected (all maps):
 <ul>
   <li>Medbay scan (Submit scan)</li>
+  ![Scan Animation](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/ScanAnimation.png)
   <li>Clear Asteroids (Weapons firing)</li>
+  ![Gun 1](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/Gunfire1.png)
+  ![Gun 2](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/gunfire2.png)
   <li>Prime Shields (Map: THE SKELD: lights indicating shield on/off will always be off)</li>
+  ![Prime Shields](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/PrimeShields.png)
   <li>Empty Garbage (Map: THE SKELD: remove garbage exiting the ship hatch)</li>
+  ![Empty Garbage](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/garbage.png)
 </ul><br>
 <h3>Let me know if I missed an animation.</h3>
 
