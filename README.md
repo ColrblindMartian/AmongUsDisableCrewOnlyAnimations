@@ -1,3 +1,4 @@
+
 # Among Us Disable Crew Only Animations
 For the Game: Among Us. Disables the animations that can only be done by a crewmember and not by an impostor
 
@@ -32,14 +33,14 @@ To undo these changes all you have to do is replace the sharedassets0.assets fil
 Following Tasks will be affected (all maps):
 <ul>
   <li>Medbay scan (Submit scan)</li>
-  ![Scan Animation](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/ScanAnimation.png)
+ <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/ScanAnimation.png" alt="scan animation">
   <li>Clear Asteroids (Weapons firing)</li>
-  ![Gun 1](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/Gunfire1.png)
-  ![Gun 2](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/gunfire2.png)
+  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/Gunfire1.png" alt="Gun 1">
+  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/gunfire2.png" alt="Gun 2">
   <li>Prime Shields (Map: THE SKELD: lights indicating shield on/off will always be off)</li>
-  ![Prime Shields](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/PrimeShields.png)
+  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/PrimeShields.png" alt="prime shields">
   <li>Empty Garbage (Map: THE SKELD: remove garbage exiting the ship hatch)</li>
-  ![Empty Garbage](https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/garbage.png)
+  <img  src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/garbage.png" alt="empty garbage">
 </ul><br>
 <h3>Let me know if I missed an animation.</h3>
 
