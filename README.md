@@ -1,3 +1,4 @@
+
 # Among Us Disable Crew Only Animations
 For the Game: Among Us. Disables the animations that can only be done by a crewmember and not by an impostor
 
@@ -5,9 +6,9 @@ For the Game: Among Us. Disables the animations that can only be done by a crewm
 
 <h1>INFO</h1>
 <b>I am not the creator of this file, I only modified it to disable a few animations stated further below. All credit for this file and the awesome game goes to the publisher and developer of this game: Innersloth http://innersloth.com</b><br>
-<a href="https://store.steampowered.com/app/945360/Among_Us">Link to Steam Page of the game</a>/<br><br>
+<a href="https://store.steampowered.com/app/945360/Among_Us">Link to Steam Page of the game</a><br><br>
 
-<b>These changes will only affect your game! If you want to have a fair match with this mod then you have to make sure everybody in the game uses this modification.</b>
+<b>These changes will only affect your game! If you want to have a fair match with this mod then you have to make sure everybody in the game uses this modification.</b><br>
 Shouldn't be that hard if you play with the same guys or with a group of friends.
 
 <h1>Introduction</h1>
@@ -24,7 +25,7 @@ Tested with Version v2020.5.9s
 
 All you have to do is download the modded asset file and replace it with the file at your game location<b>(create a backup of the file first)</b>.<br>
 File: <b>sharedassets0.assets</b> (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/raw/master/sharedassets0.assets)<br>
-Replace with file in: <b>C:/Program Files/Steam/steamapps/common/Among Us/Among Us_Data/</b>
+Replace with file in: <b>C:/Program Files (x86)/Steam/steamapps/common/Among Us/Among Us_Data/</b>
 <br><br>
 To undo these changes all you have to do is replace the sharedassets0.assets file with the backup file you created earlier and restart the game.
 <br>
@@ -32,9 +33,14 @@ To undo these changes all you have to do is replace the sharedassets0.assets fil
 Following Tasks will be affected (all maps):
 <ul>
   <li>Medbay scan (Submit scan)</li>
+ <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/ScanAnimation.png" alt="scan animation"><br>
   <li>Clear Asteroids (Weapons firing)</li>
+  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/Gunfire1.png" alt="Gun 1">
+  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/gunfire2.png" alt="Gun 2"><br>
   <li>Prime Shields (Map: THE SKELD: lights indicating shield on/off will always be off)</li>
+  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/PrimeShields.png" alt="prime shields"><br>
   <li>Empty Garbage (Map: THE SKELD: remove garbage exiting the ship hatch)</li>
+  <img  src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/garbage.png" alt="empty garbage">
 </ul><br>
 <h3>Let me know if I missed an animation.</h3>
 
