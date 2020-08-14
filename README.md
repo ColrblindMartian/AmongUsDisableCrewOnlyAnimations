@@ -5,6 +5,7 @@ For the Game: Among Us. Disables the animations that can only be done by a crewm
 
 
 <h1>INFO</h1>
+<h3>compatible with game version v2020.8.12s</h3>
 <b>I am not the creator of this file, I only modified it to disable a few animations stated further below. All credit for this file and the awesome game goes to the publisher and developer of this game: Innersloth http://innersloth.com</b><br>
 <a href="https://store.steampowered.com/app/945360/Among_Us">Link to Steam Page of the game</a><br><br>
 
@@ -21,7 +22,7 @@ In particular, I don't like the fact that there are certain tasks that can verif
 That's why I tried to mod the game and disable those animations for you.
 
 <h1>HowTo</h1>
-Tested with Version v2020.5.9s
+Tested with Version v2020.8.12s
 
 All you have to do is download the modded asset file and replace it with the file at your game location<b>(create a backup of the file first)</b>.<br>
 File: <b>sharedassets0.assets</b> (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/raw/master/sharedassets0.assets)<br>
