@@ -1,0 +1,20 @@
+﻿<Page x:Class="AmongUsHardcorePatch.StartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AmongUsHardcorePatch"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="StartPage">
+
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Left">
+        <TextBlock Text="Among Us - Hardcore Mod" FontSize="25" FontWeight="DemiBold" Margin="10,5"/>
+        <TextBlock Text="This modification allows you to disable all animations that are Crew exclusive animations.
+&#10;Crew exclusive animations are animations, that get triggered by tasks which cannot be performed by traitors.
+&#10;All tasks can be finished as before, but the animation will not be shown anymore
+&#10;&#10;Attention: Only the animaitions on your side will be disabled, everyone else will still see the animations as long as they don't have the mod installed.
+&#10;&#10;This mod can easily be uninstalled by launching this application again."
+                   TextWrapping="WrapWithOverflow" Margin="10,5" FontSize="15"/>
+    </StackPanel>
+</Page>

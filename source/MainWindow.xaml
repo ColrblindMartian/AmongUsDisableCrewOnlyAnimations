@@ -1,0 +1,36 @@
+﻿<Window x:Class="AmongUsHardcorePatch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AmongUsHardcorePatch"
+        mc:Ignorable="d"
+        Title="Among Us Hardcore Patcher" Height="450" Width="800" MinHeight="450" MinWidth="670">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--left image side-->
+        <Rectangle Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Fill="LightSkyBlue"/>
+        <Image Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Source="/Images/Icon.png" Stretch="UniformToFill" Margin="0,35" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <!--frame-->
+        <Frame Grid.Row="0" Grid.Column="1" x:Name="MainFrame"  Margin="10" NavigationUIVisibility="Hidden"/>
+
+        <TextBlock Name="textBlockMainPage" Text="" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <!--Button bottom-->
+        <!--Rectangle Grid.Row="1" Grid.Column="1" Fill="LightSkyBlue"/-->
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" Height="20" VerticalAlignment="Center" HorizontalAlignment="Right">
+            <Button Background="LightSkyBlue" FontWeight="DemiBold" Name="btnBack" Click="btnBack_Click" Content="&lt; Back" MinWidth="100" Margin="10,0,0,0"/>
+            <Button Background="LightSkyBlue" FontWeight="DemiBold" Name="btnNext" Click="btnNext_Click" Content="Next >" MinWidth="100" Margin="0,0,10,0"/>
+            <Button Background="LightSkyBlue" FontWeight="DemiBold" Name="btnCancel" Click="btnCancel_Click" Content="Cancel" MinWidth="100" Margin="20,0,10,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
