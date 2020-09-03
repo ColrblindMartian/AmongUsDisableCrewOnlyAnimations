@@ -5,8 +5,8 @@ For the Game: Among Us. Disables the animations that can only be done by a crewm
 
 
 <h1>INFO</h1>
-<h3>compatible with game version v2020.8.12s</h3>
-<b>I am not the creator of this file, I only modified it to disable a few animations stated further below. All credit for this file and the awesome game goes to the publisher and developer of this game: Innersloth http://innersloth.com</b><br>
+<h3>tested with game version v2020.9.1s</h3>
+<b>All credit for the awesome game goes to the publisher and developer of this game: Innersloth http://innersloth.com</b><br>
 <a href="https://store.steampowered.com/app/945360/Among_Us">Link to Steam Page of the game</a><br><br>
 
 <b>These changes will only affect your game! It does not matter if you host a game or not. Everybody else will still see these animations. If you want to have a fair match with this mod then you have to make sure everybody in the game uses this modification.</b><br>
@@ -22,17 +22,17 @@ In particular, I don't like the fact that there are certain tasks that can verif
 That's why I tried to mod the game and disable those animations for you.
 
 <h1>HowTo</h1>
-Tested with Version v2020.8.12s
+Tested with Version v2020.9.1s
 
-All you have to do is download the modded asset file and replace it with the file at your game location<b>(create a backup of the file first)</b>.<br>
-File: <b>sharedassets0.assets</b> (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/raw/master/sharedassets0.assets)<br>
-Replace this file with the existing file in your game install location. Standard installation path: <b>C:/Program Files (x86)/Steam/steamapps/common/Among Us/Among Us_Data/</b>
+All you have to do is download the exe file and execute it. This programm will automatically create a backup file.<br>
+File: <b>AmongUsHardcorePatch.exe</b> (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/raw/master/AmongUsHardcorePatch.exe)<br>
+This application provides the Microsoft .Net Framework 4.6.1 (https://www.microsoft.com/de-at/download/details.aspx?id=49982)
+</b>
 <br><br>
-To undo these changes all you have to do is replace the sharedassets0.assets file with the backup file you created earlier and restart the game.<br>
-If you have lost the backup file you can download it from here: <b>sharedassets0.assets</b> (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/backup/sharedassets0.assets)
+To undo these changes all you have to do is run the executable again and select "Remove Mod".<br>
 <br>
 <h1>Affected Animations</h1>
-Following Tasks will be affected (all maps):
+Following Tasks can be selected to be disabled::
 <ul>
   <li>Medbay scan (Submit scan)</li>
  <img src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/ScanAnimation.png" alt="scan animation"><br>
@@ -44,7 +44,6 @@ Following Tasks will be affected (all maps):
   <li>Empty Garbage (Map: THE SKELD: remove garbage exiting the ship hatch)</li>
   <img  src="https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/blob/master/SteamGuide/garbage.png" alt="empty garbage">
 </ul><br>
-<h3>Let me know if I missed an animation.</h3>
 
 <h1>How did I do it?</h1>
 For those interested in what changes I had to make to disable the animations..
