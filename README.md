@@ -26,7 +26,7 @@ Tested with Version v2020.9.1s
 
 All you have to do is download the exe file and execute it. This programm will automatically create a backup file.<br>
 File: <b>AmongUsHardcorePatch.exe</b> (https://github.com/marsmann007/AmongUsDisableCrewOnlyAnimations/raw/master/AmongUsHardcorePatch.exe)<br>
-This application provides the Microsoft .Net Framework 4.6.1 (https://www.microsoft.com/de-at/download/details.aspx?id=49982)
+This application needs the Microsoft .Net Framework 4.6.1 if not already installed (https://www.microsoft.com/de-at/download/details.aspx?id=49982)
 </b>
 <br><br>
 To undo these changes all you have to do is run the executable again and select "Remove Mod".<br>
